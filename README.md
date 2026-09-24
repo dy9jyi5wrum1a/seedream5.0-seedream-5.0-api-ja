@@ -2,7 +2,7 @@
 
 > 従量課金、最低 1 ドルから、OpenAI 互換エンドポイント。 **1K-layer $0.0146; 1K $0.0293; 2K-layer $0.0293**
 
-**[模型页](https://apimart.ai/model) · [实时价格](https://apimart.ai/pricing) · [获取 API Key](https://apimart.ai/keys)**
+**[模型页](https://go.apimart.ai/k-30912b) · [实时价格](https://go.apimart.ai/k-fb3999) · [获取 API Key](https://go.apimart.ai/k-4d8154)**
 
 ## 料金（快照 2026-09-24）
 
