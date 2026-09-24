@@ -1,0 +1,15 @@
+{
+  "repo": "seedream5.0-seedream-5.0-api-ja",
+  "model": "seedream-5-0-pro",
+  "display": "Seedream 5.0 Pro",
+  "variant": "model-ja",
+  "snapshot": "2026-09-24",
+  "unit": "usd_per_image",
+  "tiers": {
+    "1K-layer": 0.014625,
+    "1K": 0.02925,
+    "2K-layer": 0.02925,
+    "default": 0.036
+  },
+  "source": "https://apimart.ai/en/pricing"
+}
